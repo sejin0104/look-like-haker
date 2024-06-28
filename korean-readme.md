@@ -1,5 +1,7 @@
 # Look Like Haker
 
-# 특징
+[[English Document]](https://github.com/sejin0104/look-like-haker)
+
+## 특징
 
 # 의존성
